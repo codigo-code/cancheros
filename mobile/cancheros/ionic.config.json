@@ -1,0 +1,7 @@
+{
+  "name": "cancheros",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
